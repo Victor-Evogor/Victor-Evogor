@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Victor-Evogor
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on a cool canvas project
 - 📫 How to reach me<br> victorevogor0001@gmail.com
 
 <!---

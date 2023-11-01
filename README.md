@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋🏾, I'm Victor</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm Victor</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Javascript%2FMERN+Developer;Software+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor-evogor&label=Profile%20views&color=0e75b6&style=flat" alt="victor-evogor" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/victorevogor" target="blank"><img src="https://img.shields.io/twitter/follow/victorevogor?logo=twitter&style=for-the-badge" alt="victorevogor" /></a> </p>
 
-- 🌱 I’m currently learning **mongodb and nodejs**
+- 🌱 I’m currently learning **GOLANG and RUST**
 
-- 💬 Ask me about **html+css, react, nodejs**
+- 💬 Ask me about **Frontend Development, Backend Development, Bash, Docker, Linux or Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

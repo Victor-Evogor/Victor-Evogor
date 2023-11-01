@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm Victor</h1>
+<h1 align="center">Hi, I'm Victor</h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Javascript%2FMERN+Developer;Software+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victor-evogor&label=Profile%20views&color=0e75b6&style=flat" alt="victor-evogor" /> </p>
